@@ -1,3 +1,3 @@
 ### Title 🌚
 
-I'm Evgeny. a Fullstack developer.
+TO-DO: finally see it through 😅
