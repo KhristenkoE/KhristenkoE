@@ -1,8 +1,8 @@
 
-<h1 align="center">:wave: Hi! My name's Evgeny Khristenko, I'm a full stack developer & automations innovator at <a href="https://unicornwitnesses.com" target="_blank">UnicornWitnesses Community</a><img src="https://komarev.com/ghpvc/?username=KhristenkoE&label=People%20visit%20this%20profile&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="KhristenkoE github profile visit" /></h1>
-
+<h1 align="center">:wave: Hi! My name's Evgeny Khristenko, I'm a full stack developer & automations innovator at <a href="https://unicornwitnesses.com" target="_blank">UnicornWitnesses Community</a></h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhristenkoE&label=People%20visit%20this%20profile&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="KhristenkoE github       profile visit" />
   <a href="https://unicornwitnesses.com">
     <img src="https://img.shields.io/badge/Unicorn%20Witnesses-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    <a/>
