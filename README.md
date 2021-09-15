@@ -55,4 +55,4 @@
     </td>
 </table>
 
-    <embed type="video/quicktime" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></embed>
+    <iframe src="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></iframe>
