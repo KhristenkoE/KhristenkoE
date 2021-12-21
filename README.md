@@ -1,7 +1,6 @@
 
-<h1 align="center">:wave: Hi! My name's Evgeny Khristenko, I'm a full stack developer & automations innovator at <a href="https://unicornwitnesses.com" target="_blank">UnicornWitnesses Community</a></h1>
-  <img align="center" src="https://komarev.com/ghpvc/?username=KhristenkoE&label=People%20visit%20this%20profile&color=blueviolet&style=plastic&label=PROFILE+VIEWS"   alt="KhristenkoE github profile visit" />
-<p align="center">
+<h2 align="left">Evgeny Khristenko | CTO, Full-stack developer at <a href="https://unicornwitnesses.com">Unicorn Witnesses</a></h2>
+<div align="left">
   <a href="https://unicornwitnesses.com">
     <img src="https://img.shields.io/badge/Unicorn%20Witnesses-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    <a/>
@@ -14,23 +13,13 @@
   <a href="https://twitter.com/khristenko_e">
     <img src="https://img.shields.io/badge/@khristenko_e-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   <a/>
-</p>
+</div>
 
 ---
+
+1. Currently working on https://unicornwitnesses, https://muteit.app, https://evgenykhristenko.com
+2. How to reach me: https://evgenykhristenko.com
     
-- 🔭 I’m currently working on 🦄 https://unicornwitnesses, https://muteit.app, https://evgenykhristenko.com
-- 🌱 I’m currently learning how to be a helpful teammate to my team 🚀 🦄
-- 🤔 My team looking for help with development, analytics. Just text us help@unicornwitnesses.com 🦄
-- 💬 Ask me about help with your digital product 
-- 📫 How to reach me: ekhristenko0@gmail.com or https://evgenykhristenko.com
-- 🤫 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">something no one knows about me</a>
-    
----
-   
-## 🎰Gamification of GitHub 
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhristenkoE&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true)](New)
- 
 ---
     
 ## 📈Stats
@@ -54,3 +43,8 @@
         <a/>
     </td>
 </table>
+   
+## 🎰Gamification of GitHub 
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhristenkoE&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true)](New)
+ 
