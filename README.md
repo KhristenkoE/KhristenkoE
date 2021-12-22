@@ -17,8 +17,8 @@
 
 ---
 
-1. Currently working on https://unicornwitnesses, https://muteit.app, https://evgenykhristenko.com
-2. How to reach me: https://evgenykhristenko.com
+🔸 Currently working on https://unicornwitnesses, https://muteit.app, https://evgenykhristenko.com
+🔹 How to reach me: https://evgenykhristenko.com
     
 ---
     
