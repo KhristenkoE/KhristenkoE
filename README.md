@@ -4,8 +4,8 @@
   <a href="https://unicornwitnesses.com">
     <img src="https://img.shields.io/badge/Unicorn%20Witnesses-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    <a/>
-  <a href="https://github.com/KhristenkoE">
-    <img src="https://img.shields.io/badge/evgenykhristenko-100000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://www.facebook.com/KhristenkoEvgenyy/">
+    <img src="https://img.shields.io/badge/evgenykhristenko-100000?style=for-the-badge&logo=facebook&logoColor=white">
    <a/>
   <a href="https://linkedin.com/in/evgeny-khristenko">
     <img src="https://img.shields.io/badge/evgenykhristenko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
