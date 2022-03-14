@@ -1,5 +1,5 @@
 
-<h2 align="left">Evgeny Khristenko | CTO, Full-stack developer at <a href="https://unicornwitnesses.com">Unicorn Witnesses</a></h2>
+<h2 align="left">Evgeny Khristenko | CTO & Full-stack developer at <a href="https://unicornwitnesses.com">Unicorn Witnesses</a></h2>
 <div align="left">
   <a href="https://unicornwitnesses.com">
     <img src="https://img.shields.io/badge/Unicorn%20Witnesses-FF6719?style=for-the-badge&logo=substack&logoColor=white">
