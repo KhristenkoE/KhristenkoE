@@ -1,27 +1,5 @@
 
-<h2 align="left">Evgeny Khristenko | CTO & Full-stack developer at <a href="https://unicornwitnesses.com">Unicorn Witnesses</a></h2>
-<div align="left">
-  <a href="https://unicornwitnesses.com">
-    <img src="https://img.shields.io/badge/Unicorn%20Witnesses-FF6719?style=for-the-badge&logo=substack&logoColor=white">
-   <a/>
-  <a href="https://www.facebook.com/KhristenkoEvgenyy/">
-    <img src="https://img.shields.io/badge/evgenykhristenko-100000?style=for-the-badge&logo=facebook&logoColor=white">
-   <a/>
-  <a href="https://linkedin.com/in/evgeny-khristenko">
-    <img src="https://img.shields.io/badge/evgenykhristenko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a/>
-  <a href="https://twitter.com/khristenko_e">
-    <img src="https://img.shields.io/badge/@khristenko_e-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  <a/>
-</div>
-
----
-
-🔸 Currently working on https://unicornwitnesses.com, https://muteit.app, https://evgenykhristenko.com
-    </br>
-🔹 How to reach me: https://evgenykhristenko.com
-    
----
+<h2 align="left">Evgeny Khristenko | CTO & Digital architect | Full-stack developer</h2>
     
 ## 📈Stats
     
