@@ -1,5 +1,5 @@
 
-<h2 align="left">Evgeny Khristenko | CTO & Digital architect | Full-stack developer</h2>
+<h2 align="left">Eugene Khristenko Full-stack developer</h2>
     
 ## 📈Stats
     
