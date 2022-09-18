@@ -1,7 +1,5 @@
 
 <h2 align="left">Eugene Khristenko | Software engineer</h2>
-
-Want to see how I write code? - Check out my <a href="https://github.com/KhristenkoE/bank-account#bank-account">"bank-account repository"</a>
     
 ## 📈Stats
     
